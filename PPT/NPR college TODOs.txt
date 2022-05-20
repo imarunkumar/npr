@@ -1,0 +1,71 @@
+---------------------
+Date: April 1 ,April  2
+	Basic HTML css js, 
+	How to design a page in HTML with css
+	css {class id properties} 
+	Introduction and overview of Angular
+	Why Angular?
+	How it works?
+	RestApi
+	Types of Request methods
+	Angular Application
+	MVC Architecture
+	Angular Life Cycle
+	Installation and Project setup
+	How to Create and run the project
+	Project flow
+	Project key components
+	Project file structure
+---------------------
+Date:April 22,April 23
+	What is typeScript and why it is used in angular how it complies?
+	What is class,method ,interface ?
+	Scope of class
+	Conditional statements(if,ifelse,switch)
+	Loops(Do,while,for)
+	Exception Handling
+	Try catch final
+	What is component, Routing module,Module execution flow.
+	Index.html to app.component.ts
+	How to create components
+	Component file struture and work flow
+	How to create Module
+	Module file structure and work flow
+---------------------	
+Date:May 6,May 7
+	how to create routing module what its use?
+	Routing Module file structure and work flow
+	How to route the component via routing module
+	How to get data from public Api using HTTPClient
+	Data binding
+	One way data binding
+	Two day databinding
+	property binding
+	Event binding
+	Module creation
+	Lazy loading(Load module from the router)
+	Practical works
+	Local storage
+	Assignment : To create a angular application with all above implemention  - login page , register page and home page with certain 	logics and lazy loading
+---------------------
+Date:May 13
+	Component communication
+	Why communication?
+	Parent to child communication {@Input()}
+	EventEmitter
+	Child to parent communication{@Output(), @ViewChild()}
+	Component to component communication using observable and subscribe
+	nodejs  and Why?
+	Nodejs basic how to create nodejs server application
+	How to integrate nodejs with angular application
+	MongoDB Atlas , why mongoDB?
+	How to create Cluster,DB and collections in MongoDB Cluster
+	Basic work flow Front to back end with mongoDB
+	
+	
+	
+	
+
+
+
+
